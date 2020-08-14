@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Family-Tree</string>
+    <string name="item_input_name">Name:</string>
 </resources>
